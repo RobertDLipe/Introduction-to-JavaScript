@@ -203,10 +203,10 @@ Using the annoyingSong function below do the following:
       "{number} bottles of soda on the wall, {number} bottles of soda, take one down pass it around {number left over} bottles of soda on the wall"
 */
 
-function annoyingSong(/*add your code here*/){
-        /*add your code here*/
-  }
+function annoyingSong(songstart){
+  for (let songstart <= 5; songstart < numbers; songstart--)
 
+console.log (annoyingSong ((i) bottles of soda on the wall, (i) bottles of soda, take one down pass it around, (i-1) bottles of soda on the wall))
 
 /*🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀 Task 7 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀*/
 
